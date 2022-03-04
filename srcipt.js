@@ -1,6 +1,6 @@
 // const myword = document.getElementsByClassName("my-word");
 const n_word = document.getElementById("n-word");
-const arr = ["cars", "hello", "what", "time", "timeup", "PC", "Test"];
+const arr = ["Expectations","Random","documents","Laptop","Request","Backspace","Exclusive","Marvel","Shift","Problems","Instagram"];
 const text = document.getElementById("text");
 const correct_word = document.getElementById("head-correct-block");
 const correct_word_box = document.getElementById("correct-word");
